@@ -1,7 +1,15 @@
 ### Hi there 👋
 
+I'm currently working on ecommerce project using React JS and Zustand.
+
+I'm currently learning Cloud computing.
+
+I'm looking to collaborate on Devops Projects.
+
+You can reach me: [![Twitter](<i class="fa-brands fa-x-twitter"></i>)](https://twitter.com/devgitotox)
+
 <!--
-**b-l-u-e/b-l-u-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
