@@ -6,7 +6,7 @@ I'm currently learning Cloud computing.
 
 I'm looking to collaborate on Devops Projects.
 
-You can reach me: [![Twitter](<i class="fa-brands fa-x-twitter"></i>)](https://twitter.com/devgitotox)
+
 
 <!--
 
