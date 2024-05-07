@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on ecommerce project using React JS and Zustand.
+I'm a Frontend Developer and DevOps Engineer
 
 I'm currently learning Cloud computing.
 
