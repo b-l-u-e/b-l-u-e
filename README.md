@@ -2,18 +2,18 @@
 
 
 <h1 align="center"> Hi there 👋. I am Winnie Gitau! </h1>
+<p align="center"> 👩‍💻 I'm a UI Designer | Software engineer | DevOps Engineer</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=b-l-u-e&icon=7&color=2)](https://visitcount.itsvg.in)
 
 
-👩‍💻 **I'm a UI Designer | Software engineer | DevOps Engineer**<br>
-🏫 **Completed 30 day challenge Data structures and algorithms at [Zindua School](https://zinduaschool.com/)**<br>
-🏫 **Studied DevOps engineering at [Moringa School](https://moringaschool.com/courses/devops-engineering/)** <br>
-🏫 **Completed Bachelor of Science in Mathematics at [University of Nairobi](https://www.uonbi.ac.ke/)** <br>
-💭 **Currently building Javascript and React solo projects....** <br>
-📖 **Considering studying German as a second language** <br>
-👯 **Looking for open source projects to contribute to...** <br>
+🏫 *Completed 30 day challenge Data structures and algorithms at [Zindua School](https://zinduaschool.com/)*<br>
+🏫 *Studied DevOps engineering at [Moringa School](https://moringaschool.com/courses/devops-engineering/)* <br>
+🏫 *Completed Bachelor of Science in Mathematics at [University of Nairobi](https://www.uonbi.ac.ke/)*<br>
+💭 *Currently building Javascript and React solo projects....* <br>
+📖 *Considering studying German as a second language* <br>
+👯 *Looking for open source projects to contribute to...* <br>
 
 ⚡ *Fun fact: Vikings were excellent boat makers..* <br>
 
