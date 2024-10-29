@@ -17,6 +17,8 @@
 
 ⚡ *Fun fact: Vikings were excellent boat makers..* <br>
 
+[![An image of @blue's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blue)](https://holopin.io/@blue)
+
 
 <h1 align="center">💻 Tech Stack</h1>
 
@@ -30,7 +32,7 @@
 ![Winnie Gitau's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-l-u-e&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=b-l-u-e&theme=dark&hide_border=false)<br/>
 
-[![An image of @blue's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blue)](https://holopin.io/@blue)
+
 
 
 
