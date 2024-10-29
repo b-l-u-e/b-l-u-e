@@ -2,7 +2,7 @@
 
 
 <h1 align="center"> Hi there 👋. I am Winnie Gitau! </h1>
-<p align="center"> 👩‍💻 I'm a UI Designer | Software engineer | DevOps Engineer</p>
+<p align="center"> 👩‍💻 I'm a Software engineer | DevOps Engineer</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=b-l-u-e&icon=7&color=2)](https://visitcount.itsvg.in)
@@ -29,6 +29,8 @@
 <!--  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=b-l-u-e&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br> -->
 ![Winnie Gitau's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-l-u-e&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=b-l-u-e&theme=dark&hide_border=false)<br/>
+
+[![An image of @blue's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blue)](https://holopin.io/@blue)
 
 
 
