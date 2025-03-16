@@ -1,6 +1,5 @@
 <!-- Simple Bio and stats -->
 
-
 <h1 align="center"> Hi there 👋. I am Winnie Gitau! </h1>
 <p align="center"> 👩‍💻 I'm a Software Engineer | DevOps Engineer | Blockchain Contributor</p>
 
@@ -14,7 +13,9 @@
 💭 *Currently building JavaScript and React solo projects...*<br>
 📖 *Considering studying German as a second language*<br>
 👯 *Looking for open source projects to contribute to...*<br>
-🔗 *Joined the [Chaincode Program](https://chaincode.com/) and [Btrust Program](https://www.btrust.tech/) to further deepen my blockchain expertise*<br>
+🔗 *Joined the [Chaincode Program](https://chaincode.com/) and [Btrust Program](https://www.btrust.tech/) to further deepen my bitcoin expertise*<br>
+> "Bitcoin is like the digital Wild West—every commit is a daring shootout, and legends like Peter Wielle are the sheriffs keeping our code from going off the rails."
+
 💡 *Contributed to [Hedera Hashgraph](https://www.hedera.com/) ecosystem*<br>
 
 
@@ -87,15 +88,3 @@ I actively participated in Hacktoberfest and earned Holopin badges for my contri
 <!--  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=b-l-u-e&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br> -->
 ![Winnie Gitau's GitHub stats](https://github-readme-stats.vercel.app/api?username=b-l-u-e&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=b-l-u-e&theme=dark&hide_border=false)<br/>
-
-
-
-
-
-
-
-
-
-
-
-
